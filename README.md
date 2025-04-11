@@ -54,7 +54,8 @@ The model uses a standard transformer architecture with:
 
 ## Training Progress
 
-The model has been trained for 16,000 iterations with a training loss of 1.0533. This indicates good progress in learning the patterns in the Wikipedia text.
+The model has been trained for 16,000 iterations with a training loss of 1.0533. This indicates good progress in learning the patterns in the Wikipedia text. The model contains approximately 150 million parameters and was trained in about 1 hour on an NVIDIA RTX 4090 GPU.
+
 ## Acknowledgments
 
 - Inspired by the [nanoGPT](https://github.com/karpathy/nanoGPT) project
